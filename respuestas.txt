@@ -3,3 +3,5 @@
 3. mkdir -p examen/una examen/dos examen/tres
 4. touch examen/una/nombre.txt
 5. cd examen/dos; cp ../una/nombre.txt ../tres/
+6. git checkout master; git merge primeras
+7. git push -u origin master
