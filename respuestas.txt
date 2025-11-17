@@ -2,3 +2,4 @@
 2. git checkout -b primeras
 3. mkdir -p examen/una examen/dos examen/tres
 4. touch examen/una/nombre.txt
+5. cd examen/dos; cp ../una/nombre.txt ../tres/
